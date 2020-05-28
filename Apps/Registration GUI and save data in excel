@@ -1,5 +1,7 @@
+# pip install tkinter
 import tkinter as tk
 import tkinter.ttk as ttk
+# pip install openpyxl
 from openpyxl import *
 from tkinter.messagebox import showinfo
 
